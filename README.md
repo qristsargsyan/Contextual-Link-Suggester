@@ -2,7 +2,7 @@
 
 Transform your content strategy with the Contextual Link Suggester, an intelligent SEO assistant powered by the Gemini API. Designed to enhance internal linking for better SEO performance, this tool analyzes your webpage content and a list of internal URLs to suggest precise, contextually relevant placements for each link.
 
-🧠 **Key Features**
+**Key Features**
 
 **Smart Link Placement:** Automatically identifies semantically appropriate anchor points within your content for each internal link, boosting relevance and SEO value.
 
