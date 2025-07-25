@@ -1,0 +1,5 @@
+
+{
+  "name": "Contextual Link Suggester",
+  "description": "Analyzes web page content and suggests contextual internal links from a provided list using the Gemini API."
+}
